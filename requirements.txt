@@ -57,3 +57,4 @@ xlrd==1.2.0
 pygal==2.0.0
 networkx==2.2
 graphviz==0.10.1
+beautifulsoup4==4.6.3
